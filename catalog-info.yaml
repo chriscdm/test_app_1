@@ -2,10 +2,11 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test_app_1
+  description: example of an application within a platform group
   annotations:
     github.com/project-slug: chriscdm/test_app_1
 spec:
   type: other
   lifecycle: experimental
   owner: platform_1
-  description: example of an application within a platform group
+
