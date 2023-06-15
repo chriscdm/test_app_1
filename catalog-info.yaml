@@ -8,4 +8,4 @@ spec:
   type: other
   lifecycle: experimental
   owner: platform_1
-  deescription: example of an application within a platform group
+  description: example of an application within a platform group
