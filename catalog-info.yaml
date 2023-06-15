@@ -6,5 +6,6 @@ metadata:
     github.com/project-slug: chriscdm/test_app_1
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
   owner: platform_1
+  deescription: example of an application within a platform group
