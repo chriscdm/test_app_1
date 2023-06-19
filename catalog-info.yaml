@@ -9,4 +9,5 @@ spec:
   type: other
   lifecycle: experimental
   owner: platform_1
+  system: examples
 
