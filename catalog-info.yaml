@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: chriscdm/test_app_1
 spec:
-  type: application
+  type: app
   lifecycle: experimental
   owner: platform_1
   system: examples
